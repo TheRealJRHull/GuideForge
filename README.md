@@ -1,7 +1,3 @@
-Here's a draft for your **GuideForge** README file, which will give potential contributors and users a clear understanding of your project:
-
----
-
 # **GuideForge**  
 *An Open-Source CMS for DIY Guides and Manuals*
 
@@ -127,7 +123,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Feel free to suggest additional features or improvements in the **Discussions** tab, and check out the **Issues** section for open tasks!
-
----
-
-Let me know if you'd like to make any adjustments, or if you need help setting up the repository or adding additional sections!
