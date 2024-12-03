@@ -140,5 +140,3 @@ attachAutocomplete(vitalsForm.horseName, horseNames, false);
   attachAutocomplete(document.getElementById('vitalsHorseName'), horseNames, false);
 </script>
 ```
-
-This documentation ensures clarity and ease of integration for developers. Let me know if you'd like further refinements!
